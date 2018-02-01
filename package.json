@@ -1,0 +1,16 @@
+{
+  "name": "vidjot",
+  "version": "1.0.0",
+  "description": "app to create and save video ideas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Brown",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "*",
+    "mongoose": "^5.0.0-rc1"
+  }
+}
